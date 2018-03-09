@@ -89,3 +89,20 @@ The TEI offers various mechanisms for encoding the visual appearance of text. On
 * `sup`: Text written in elevated or above the line, for example added text placed above the line.
 
 Think about the choices you made in encoding the material. What features did you choose to indicate with markup? What did you ignore? What important characteristics of the text could not be represented by the elements we have learned? What other approaches might you have taken?
+
+**Bonus Activity:** Visit the [TEI Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/), view the chapter on "Names, Dates, People, and Places," and consider how you might use that set of elements to add metadata to your edition of the letter. How would different choices affect the way you can use your edition?
+
+# Resources Mentioned in the Workshop
+## Learning TEI
+* TEI by Example (http://teibyexample.org/)
+* TEI-L Listserv – best for specific questions after you’ve consulted other resources (https://listserv.brown.edu/archives/cgi-bin/wa?A0=TEI-L)
+* The TEI Guidelines (http://www.tei-c.org/release/doc/tei-p5-doc/en/html/)
+
+## Software
+* oXygen – commercial XML editor (https://www.oxygenxml.com/)
+
+## Tools for publishing TEI
+* CETEIcean (http://teic.github.io/CETEIcean/). Simple JavaScript library to display TEI editions directly in the browser.
+* TEI Boilerplate (http://dcl.ils.indiana.edu/teibp/index.html). Uses XSLT to display TEI files directly in the browser. Older technology; I recommend CETEIcean instead.
+* TEI Publisher (https://teipublisher.com/index.html). Tool to create webapps for TEI editions.
+* EVT/Edition Visualization Technology (https://visualizationtechnology.wordpress.com/). Tool to create TEI diplomatic editions and display them along with facsimile images.
