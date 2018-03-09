@@ -2,7 +2,7 @@
 title: TEI Workshop Instructions
 ---
 
-Welcome to the Introduction to XML and Digital Scholarly Editing with the Text Encoding Initiative (TEI) workshop. Instructions and URLs needed to complete the workshop exercises are found below.
+Welcome to the Introduction to XML and Digital Scholarly Editing with the Text Encoding Initiative (TEI) workshop. Instructions and URLs needed to complete the workshop exercises are found below. These instructions are available online at https://paulbroyles.github.io/tei-workshop-instructions/.
 
 # Getting Started
 
