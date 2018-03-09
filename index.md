@@ -1,6 +1,8 @@
-Welcome to the Introduction to XML and Digital Scholarly Editing with the Text Encoding Initiative (TEI) workshop.
+---
+title: TEI Workshop Instructions
+---
 
-To view the slides associated with this workshop, visit #####. Instructions and URLs needed to complete the workshop exercises are found below.
+Welcome to the Introduction to XML and Digital Scholarly Editing with the Text Encoding Initiative (TEI) workshop. Instructions and URLs needed to complete the workshop exercises are found below.
 
 # Getting Started
 
