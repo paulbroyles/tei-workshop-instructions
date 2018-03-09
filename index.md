@@ -4,7 +4,7 @@ To view the slides associated with this workshop, visit #####. Instructions and 
 
 # Getting Started
 
-To get started, you must go to the website for the TEI Web Editor app and authorize it by logging into your GitHub account. (If you have not already created an account at (GitHub.com)[https://github.com], you will need to do so before you begin.)
+To get started, you must go to the website for the TEI Web Editor app and authorize it by logging into your GitHub account. (If you have not already created an account at [GitHub.com](https://github.com), you will need to do so before you begin.)
 
 1. Visit https://tei-web-editor.herokuapp.com
 2. Click the Login button in the upper right and enter your GitHub username and password.
@@ -12,7 +12,7 @@ To get started, you must go to the website for the TEI Web Editor app and author
 
 Now you should see your GitHub username in the upper right of the screen. The app will remain authorized to access your GitHub account until you explicitly revoke access.
 
-If you want to revoke access after the workshop is over, go to (GitHub.com)[https://github.com], click on your profile picture, and select Settings. From the menu on the left, select Applications. At the top of the page, open the tab labeled "Authorized OAuth Apps." Press the button labeled "Revoke" next to "scta-text-ui-production."
+If you want to revoke access after the workshop is over, go to [GitHub.com](https://github.com), click on your profile picture, and select Settings. From the menu on the left, select Applications. At the top of the page, open the tab labeled "Authorized OAuth Apps." Press the button labeled "Revoke" next to "scta-text-ui-production."
 
 # Exercise 1: Encoding Poetry
 
@@ -41,7 +41,7 @@ So far, you have prepared your work environment by creating a new repository in 
 10. Click the Save button at the top of the page. In the left column, enter a brief description of what you've done in the box marked "Message," then scroll down and click `Save`.
 11. At the top of the screen, click on the words `Current doc: index.xml`. Select `View on GitHub Pages`. A new tab will open, showing you that your poem is visible on the web.
 
-**Bonus Activity:** Visit the (TEI Guidelines)[http://www.tei-c.org/release/doc/tei-p5-doc/en/html/], view the chapter on Verse, and look up how to encode rhyme. Add the appropriate markup.
+**Bonus Activity:** Visit the [TEI Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/), view the chapter on Verse, and look up how to encode rhyme. Add the appropriate markup.
 
 # Exercise 2: Encoding Manuscript Materials
 
