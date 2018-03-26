@@ -8,7 +8,7 @@ Welcome to the Introduction to XML and Digital Scholarly Editing with the Text E
 
 To get started, you must go to the website for the TEI Web Editor app and authorize it by logging into your GitHub account. (If you have not already created an account at [GitHub.com](https://github.com), you will need to do so before you begin.)
 
-1. Visit https://tei-web-editor.herokuapp.com
+1. Visit [https://tei-web-editor.herokuapp.com](https://tei-web-editor.herokuapp.com)
 2. Click the Login button in the upper right and enter your GitHub username and password.
 3. Click the green button marked "Authorize scta-texts."
 
@@ -25,7 +25,7 @@ For our first activity, we will practice encoding poems. Working with poetry wil
 3. in the box below the words "Create New Branch," enter `gh-pages` and press "Create."
 4. Click on the `xml` folder, then on the `index.xml` file.
 6. At the top of the screen, click on the giant plus sign (`+`) with the words "Add Item" below.
-7. Copy this link: https://iiif.lib.harvard.edu/manifests/drs:43369310
+7. Copy this link: [https://iiif.lib.harvard.edu/manifests/drs:43369310](https://iiif.lib.harvard.edu/manifests/drs:43369310)
 8. Paste the link into the box next to the words "Add new object from URL" and click "Load."
 9. The top part of the screen now contains images from a book of Emily Dickinson's poetry. To the left of this section, you will see the contents of the book. Choose a section, I through IV, and expand it. Then choose a page. You will add this poem to your edition. Zoom in as appropriate to make sure you can see the text.
 
@@ -49,13 +49,13 @@ So far, you have prepared your work environment by creating a new repository in 
 
 For our second activity, we will practice encoding a letter—a common kind of manuscript you might want to encode in TEI. We will see how special elements allow us to mark up significant features of this kind of document, how TEI encoding allows us to record changes to the document like additions or deletions, how we can make editorial interventions like regularizing mistakes, and how we can record specific visual features of the document.
 
-1. In a separate tab, visit https://github.com/paulbroyles/tei-workshop-letter and click the `Fork` button in the upper right.
+1. In a separate tab, visit [https://github.com/paulbroyles/tei-workshop-letter](https://github.com/paulbroyles/tei-workshop-letter) and click the `Fork` button in the upper right.
 2. Return to the TEI Web Editor tab and click on the Open button at the top of the screen.
 3. Under `My Repositories`, click the link that ends  `tei-workshop-letter`.
 4. In the Branch column, click on `gh-pages`.
 5. Click on the `xml` folder, then on the `index.xml` file.
 6. At the top of the screen, click on the giant plus sign (`+`) with the words "Add Item" below.
-7. Copy this link: https://d.lib.ncsu.edu/collections/catalog/ll000159/manifest.json
+7. Copy this link: [https://d.lib.ncsu.edu/collections/catalog/ll000159/manifest.json](https://d.lib.ncsu.edu/collections/catalog/ll000159/manifest.json)
 8. Paste the link into the box next to the words "Add new object from URL" and click "Load."
 9. Click on the first image in the new row that appears to load the letter.
 
@@ -94,15 +94,15 @@ Think about the choices you made in encoding the material. What features did you
 
 # Resources Mentioned in the Workshop
 ## Learning TEI
-* TEI by Example (http://teibyexample.org/)
-* TEI-L Listserv – best for specific questions after you’ve consulted other resources (https://listserv.brown.edu/archives/cgi-bin/wa?A0=TEI-L)
-* The TEI Guidelines (http://www.tei-c.org/release/doc/tei-p5-doc/en/html/)
+* [TEI by Example (http://teibyexample.org/)](http://teibyexample.org/)
+* [TEI-L Listserv (https://listserv.brown.edu/archives/cgi-bin/wa?A0=TEI-L)](https://listserv.brown.edu/archives/cgi-bin/wa?A0=TEI-L). Best for specific questions after you’ve consulted other resources.
+* [The TEI Guidelines (http://www.tei-c.org/release/doc/tei-p5-doc/en/html/)](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/)
 
 ## Software
-* oXygen – commercial XML editor (https://www.oxygenxml.com/)
+* [oXygen (https://www.oxygenxml.com/)](https://www.oxygenxml.com/). Commercial XML editor.
 
 ## Tools for publishing TEI
-* CETEIcean (http://teic.github.io/CETEIcean/). Simple JavaScript library to display TEI editions directly in the browser.
-* TEI Boilerplate (http://dcl.ils.indiana.edu/teibp/index.html). Uses XSLT to display TEI files directly in the browser. Older technology; I recommend CETEIcean instead.
-* TEI Publisher (https://teipublisher.com/index.html). Tool to create webapps for TEI editions.
-* EVT/Edition Visualization Technology (https://visualizationtechnology.wordpress.com/). Tool to create TEI diplomatic editions and display them along with facsimile images.
+* [CETEIcean (http://teic.github.io/CETEIcean/)](http://teic.github.io/CETEIcean/). Simple JavaScript library to display TEI editions directly in the browser.
+* [TEI Boilerplate (http://dcl.ils.indiana.edu/teibp/index.html)](http://dcl.ils.indiana.edu/teibp/index.html). Uses XSLT to display TEI files directly in the browser. Older technology; I recommend CETEIcean instead.
+* [TEI Publisher (https://teipublisher.com/index.html)](https://teipublisher.com/index.html). Tool to create webapps for TEI editions.
+* [EVT/Edition Visualization Technology (https://visualizationtechnology.wordpress.com/)](https://visualizationtechnology.wordpress.com/). Tool to create TEI diplomatic editions and display them along with facsimile images.
